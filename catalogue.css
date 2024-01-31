@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(219, 219, 228);
+}
+
+.container-fluid{
+    width:80%;
+    
+}
+
+.top-bar{
+    padding: 30px 2px !important;
+    z-index: 1;     
+}
+
+
+.prog{
+    flex: 2;
+   
+}
+
+.sort-by{
+    background-color: pink;
+}
+
+
+
+.menu{
+    padding: 15px;
+    border-radius: 4px;
+
+}
+
+.menu-dropdown:hover{
+    border: 8px solid rgb(126, 126, 250);
+}
+
+
+/* My Sidebar design starts here */
+
+
+.sidebar{
+    width: 20%;
+    /* position: fixed;
+    z-index: 1; */
+  
+}
+
+
+.sidebar .nav select{
+    width:350px;
+    padding: 30px 25px;
+   
+}
+
+
+/* 
+My card designs starts here */
+.card{
+   width: 80%;
+
+} 
+
+
+.col .bgimg{
+    height:40vh;
+ }
+
+ .card-title{
+   padding-top: 220px;
+ }
+
+ .ref{
+    margin-top: -30px;
+ }
+
+ .card-icon i{
+    color: yellow;
+    letter-spacing: 5px;
+    
+ }
+
+ .card a{
+    text-decoration: none;
+ }
+
+ .row{
+    display: flex;
+}
+
+.flex2{
+align-items: center;
+justify-content: center;
+
+}
+
+
+.icon-link{
+    padding: 25px;
+    justify-content: space-around;
+    border: 3px solid rgb(124, 124, 250);
+    border-radius: 100%;
+}
+
+.icon-link a i{
+    font-size: 30px;
+}
+
+.icon-link a i:hover{
+    color: white;
+}
+.icon-link:hover{
+    background-color: rgb(14, 14, 54);
+    border: 2px black;
+   
+}
+
+
+.search{
+    background-color: rgb(97, 131, 241);
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.search select{
+    padding: 25px 100px;
+    font-size: 20px;
+}
+
+.search select:hover{
+    border: 3px solid black;
+}
