@@ -1,0 +1,149 @@
+.containerfluid{
+    height: 300px;
+    background-color: #1209b9;
+    color: white;
+    background-image: url(./udacitylegal\ background\ img.jpg);
+    
+}
+.ab {
+    color: aqua;
+}
+.ab:hover{
+    color: white;
+}
+.ac{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul, li, a {
+    text-decoration: none;
+}
+.container, li, a{
+    list-style-type: none;
+    font-size: large;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+h1{
+    margin-left: 10%;
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+h5{
+    margin-left: 3%;
+}
+.fa-book-open{
+    color: rgb(116, 173, 58);
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 20px;
+}
+.icondiv{
+    font-size: 25px;
+}
+.fa-book{
+    color: rgb(15, 107, 107);
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 20px; 
+}
+.fa-trophy{
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 20px; 
+    color: blueviolet;
+    
+}
+.fa-pagelines{
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 20px; 
+    color: lightseagreen;
+}
+.fa-briefcase{
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 20px; 
+    color: lightseagreen;
+}
+.fa-warehouse{
+    font-size: 30px;
+    margin-left: -1.5%;
+    padding: 20px; 
+    color: dodgerblue;
+}
+.fa-head-side-virus{
+    font-size: 30px;
+    margin-left: -1.5%;
+    padding: 20px; 
+    color: lightseagreen;
+}
+.ad{
+    color: black;
+}
+.col, h4{
+    font-size: 10px;
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ae{
+     font: bolder;
+    font-size: 25px;
+    margin-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+.footer2{
+    display: flex;
+    padding: 0 25px;
+    gap: 106px;
+}
+.af{
+    color: blue;
+}
+
+.af:hover{
+    color: white;
+    /* background-color: #17135f !important; */
+    padding: 15px;
+}
+.placeholder-btn{
+    border: 10px;
+    background-color: white;
+    width: 50%;
+    padding: 10px 0;
+    border: 2px solid;
+    border-color: rgb(98, 136, 173);
+    color: grey;
+    padding-left: 15px;
+}
+.placeholder-btn:hover{
+    border-color: blue;
+}
+
+.buttonn-group{
+    display: flex;
+    gap: 5px;
+}
+.social{
+    position: absolute;
+    right: 5%;
+    color: white;
+}
+.bottom{
+    display: flex;
+    gap: 6%;
+}
+.z{
+    color: black;
+    font-size: 18px;
+    font: bolder;
+    text-decoration: underline;
+}
+.udacity img{
+    width: 50px;
+    height: auto;
+    margin-left: 5%;
+}
