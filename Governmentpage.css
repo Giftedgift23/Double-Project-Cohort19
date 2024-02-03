@@ -1,0 +1,100 @@
+
+
+
+
+.home {
+    height: 550px;
+   max-width:100%;
+   padding-top: 100px;
+   padding-left: 100px;
+}
+ 
+
+.btn{
+    font-size: 16px;
+   
+}
+
+
+
+.udacity{
+    margin: auto; 
+   
+} 
+
+ .btn-find{
+     padding: 15px 30px;
+     background-color: #2563eb;
+     color: white;
+     font-weight: lighter;
+     border-radius: 5px;
+     text-decoration: none;
+ }  
+
+
+.fa-solid {
+    padding: 10px;
+}
+
+
+ .footer1{
+    background-color: rgb(1, 1, 43);
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}  
+.trusted{
+    color: white;
+    text-align: center;
+    padding: 40px 50px;
+}
+
+.flag ul li{
+    display: inline-block; 
+    padding: 20px 25px;
+}
+
+.two{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.currency{
+    width: 40%;
+    display: flex;
+   align-items: center;
+     background-color: rgb(4, 4, 80); 
+     color: white;
+      padding: 15px;
+      border-radius: 20px;
+}
+
+@media screen and (max-width:1064px){
+   .footer1{
+    display: inline-block;
+    width: 100%;
+    
+   }
+   .flag{
+    display: inline;
+   }
+    .two{
+        display: inline-block;
+        width: 100%;
+    margin-left:30px ;
+    align-items: center;
+   
+    } 
+     .currency{
+        width: 60%;
+        margin-bottom: 20px;
+        /* display: inline; */
+       align-items: center;
+         background-color: rgb(4, 4, 80); 
+         color: white;
+          padding: 10px;
+          border-radius: 20px;
+    } 
+}
