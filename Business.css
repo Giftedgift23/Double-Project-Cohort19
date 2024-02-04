@@ -1,0 +1,825 @@
+*{
+
+    list-style-type: none;
+    text-decoration: none;
+    
+        
+    }
+    .header{
+    
+        display: flex;
+        background-color:lightgray;
+        height: 85px;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 20px;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+    }
+    .image img{
+    
+        width: 60px;
+        
+    
+    }
+    .image a{
+    
+        text-decoration: none;
+    }
+    
+    .nav ul li{
+    
+        display: inline-block;
+        
+    }
+    .nav ul li a{
+    
+        text-decoration: none;
+        padding: 0px 10px;
+        /* padding-left: 30px; */
+    }
+    .login a{
+    
+        text-decoration: none;
+    
+    }
+    .nav{
+    
+        padding-right: 25%;
+    }
+    .btn-login{
+    
+        background-color: aliceblue;
+        border: 2px solid dodgerblue;
+        padding: 13px;
+        border-radius: 5px;
+    }
+    
+    .btn-join{
+    
+        background-color: blue;
+        color: white;
+        padding: 13px;
+        border-radius: 5px;
+    }
+    
+    .search{
+    
+        font-size: 25px;
+    }
+    
+    
+    
+    
+    .login1 a{
+    
+        
+        text-decoration: none; 
+    }
+    
+    /* This is the end of my header */
+    
+    .content1 img{
+    
+        width: 100%;
+        height: 100vh;
+    } 
+    
+    .cont1 ul{
+    
+    
+        padding-left: 35%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    
+    .cont3 ul{
+    
+        padding-left: 35%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 50px;
+       
+    
+    
+    }
+    
+    .cont2{
+    
+        padding-left: 30px;
+    }
+    
+    .content2{
+    
+        background-color: aliceblue;
+        padding-top: 40px;
+    }
+    
+    /* This is the end of the second content */
+    
+    .img2 img{
+    
+        width: 520px;
+        height: 490px;
+         border-radius: 10px;
+        margin-left: 50px;
+        padding-top: 70px;
+    }
+    
+    .cont4{
+    
+        display: flex;
+    }
+    
+    .flex1{
+    
+        margin-left: 90px;
+        padding-top: 125px;
+    }
+    .era{
+    
+        color: blue;
+    }
+    .cont5{
+    
+        text-align: center;
+        padding-top: 70px;
+    }
+    
+    .cardflex{
+    
+        display: flex;
+        padding-left: 20px;
+        padding-top: 60px;
+        justify-content: space-around;
+        padding-bottom: 60px;
+    }
+    .cardflex1{
+        background-color: aliceblue;
+        padding: 40px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .cardflex2{
+        background-color: aliceblue;
+        padding: 40px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .cardflex3{
+        background-color: aliceblue;
+        padding: 40px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .cardflex4{
+        background-color: aliceblue;
+        padding: 40px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .amt{
+    
+        color: blue;
+    }
+    
+    /* This is the beginning of content4 */
+    
+    .content4{
+    
+        background-color:#EDFDFD;
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    .subflex{
+    
+        display: flex;
+    }
+    .head{
+    
+        text-align: center;
+        padding-top: 70px;
+        
+    }
+    .subcont6{
+    
+        background-color: white;
+        width: 90%;
+        border-radius: 7px;
+        margin-top: 50px;
+        
+    }
+    
+    .flex2{
+    
+        display: flex;
+        margin-top: 95px;
+    }
+    
+    /* .cont7{
+    
+        margin-left: 80px;
+        margin-top: 80px;
+        margin-bottom: 50px;
+    } */
+    .cont7 img{
+    
+        width: 100%;
+        height: 70vh;
+        border-radius: 7px;
+    } 
+    
+    .cont6{
+    
+        
+        margin-left: 50px; 
+        font-size: 20px;
+    }
+    .cont4{
+        margin-top: 70px;
+    }
+    
+    .flex3{
+    
+        padding-top: 150px;
+        display: flex;
+    }
+    .cont8{
+    
+        margin-left: 40px;
+        width: 60%;
+        
+    }
+    .subflex3{
+    
+        display: flex;
+        
+    }
+    
+    .cont9{
+    
+        width: 100%;
+        margin-left: 50px;
+        border-radius: 10px;
+    }
+    
+    .subcont7{
+        background-color: white;
+        padding: 15px;
+        width: 90%;
+        font-size: 5px;
+        border-radius: 7px;
+    
+       
+    }
+    .flex4{
+    
+        padding-top: 150px;
+        display: flex;
+    }
+    .subflex6{
+    
+        display: flex;
+        
+    }
+    .cont10{
+    
+        width: 90%;
+        margin-left: 30px;
+    }
+    .subcont8{
+    
+        background-color: white;
+        width: 95%;
+        border-radius: 7px;
+    }
+    
+    .flex5{
+    
+        display: flex;
+        padding-top: 150px;
+    }
+    
+    .subflex9{
+    
+        display: flex;
+    }
+    .cont11{
+    
+        width: 100%;
+        margin-left: 50px;
+    }
+    .subcont9{
+        background-color: white;
+        padding: 15px;
+        width: 90%;
+        font-size: 5px;
+        border-radius: 7px;
+    
+    
+    
+    }
+    .cont12{
+    
+        width: 100%;
+        margin-left: 50px;
+        border-radius: 10px;
+    }
+    .subcont9{
+    
+        margin-top: 80px;
+    }
+    
+    /* This is my belt */
+    
+    .belt{
+    
+        margin-top: 70px;
+        background-color: #142580;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+        padding: 70px;
+        font-size: 20px;
+    
+    }
+    
+    .belt2{
+    
+        color: white;
+        margin-right: 70px;
+    }
+    
+    .belt3 a{
+    
+        text-decoration: none;
+        background-color: #00c5a1;
+        padding: 15px 20px;
+        border-radius: 7px;
+    }
+    
+    .flex6{
+    
+        display: flex;
+        margin-left: 40px;
+    }
+    
+    .flex7{
+    
+        display: flex;
+        margin-left: 40px;
+    }
+    .drive{
+    
+        margin-left: 40px;
+    }
+    
+    .content5{
+    
+        padding-top: 70px ;
+           background-color:aliceblue;
+        width: 100%;
+    }
+    .cost{
+    
+        width: 30%;
+    }
+    .skills{
+    
+        width: 30%;
+    }
+    .success{
+    
+        color: blue;
+    }
+    
+    /* This is my bootstraps */
+    
+    .card-body{
+    
+        background-color: #2015ff;
+    }
+    
+    .col-4{
+    
+        padding-top: 30px;
+        
+        
+        
+    }
+    
+    .card-body{
+    
+        height: 100px;
+        
+    }
+    .card{
+    
+        color: white;
+       
+    }
+    .card-header{
+    
+        font-size: 22px;
+    
+        
+    }
+    .card-link a{
+        color: forestgreen;
+        font-size: 15px;
+    }
+    
+    .exp{
+    
+        text-align: center;
+    }
+    .dev{
+    
+        text-align:center ;
+    }
+    .cata{
+        font-weight: bold;
+        color: #2015ff;
+    }
+    
+    .job-ready{
+    
+        display: flex;
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+    .Tel{
+    
+        display: flex;
+        color: white;
+        
+    }
+    .Tel2{
+        margin-left: 20px;
+    }
+    .ready{
+    
+        padding-top: 150px;
+        text-align: center;
+    }
+    .Cristina{
+    
+        background-color: #171a53;
+        height: 100vh;
+        
+        
+    }
+    .times{
+    
+        
+        padding-top: 30px;
+        color: black;
+        background-color: white;
+        width: 90%;
+        margin-left: 5%;
+        position: relative;
+        top: 15%;
+        line-height: 80px;
+        border-radius: 5px;
+        text-align: center;
+        
+     }
+     .hy{
+        margin-top: 10px;
+        width: 90%;
+     }
+     .hy1{
+        margin-top: 10px;
+        width: 90%;
+        font-size: 20px;
+        padding-bottom: 50px;
+    
+    
+     }
+     .quote{
+    
+        font-size: 60px;
+        color: #2015ff;
+     }
+    
+    .rynning img{
+    
+        width: 90px;
+        
+        
+    }
+    
+    .time2{
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: 25%;
+        
+    }
+    .content-last{
+         background-color: aliceblue; 
+    } 
+    
+    .plan{
+    
+        font-size: 45px;
+        padding-top: 70px;
+        text-align: center;
+        
+    }
+    .buss{
+    
+        font-weight: bold;
+    }
+    .Team{
+    
+        background-color: white;
+        width: 30%;
+        height: 100vh;
+        border: 1px solid gray;
+        border-radius: 5px;
+    }
+    .button{
+    
+        background-color: #2015ff;
+        width: 90%;
+        border-radius: 5px;
+        padding: 15px;
+        margin-left: 15px;
+        margin-top: 40px;
+    }
+    .button a{
+    
+        color: white;
+        text-decoration: none;
+        margin-left: 70px;
+    }
+    .limited{
+    
+        margin-left: 15px;
+        padding-top: 15px;
+    }
+    .user{
+        margin-top: 90px;
+        margin-left: 20px;
+    }
+    .user1{
+    
+        padding-top: 10px;
+        margin-left: 20px;
+    }
+    .user2{
+    
+        margin-left: 20px;
+    }
+    .user3{
+        margin-left: 20px;
+    }
+    
+    .Team-flex{
+    
+        display: flex;
+        justify-content: space-around;
+        padding-top: 40px;
+        margin-bottom: 120px;
+    }
+    
+    .live-image{
+        background-image: url(https://www.udacity.com/_next/image?url=%2Fimages%2Fbackgrounds%2Fblue-shapes.png&w=2048&q=75);
+        height: 60vh;
+        color: white;
+        
+       
+        
+    }
+    .anchor1{
+    
+        text-align: center;
+        padding-top: 120px;
+        margin-bottom: 40px;
+    }
+    .anchor a{
+        background-color: forestgreen;
+        color: black;
+        padding-top: 180px;
+        margin-left: 510px;
+        padding: 10px 50px;
+        font-size: 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-bottom: 500px;
+        
+    }
+    
+    
+    /* This is my footer */
+    
+    .footter{
+        text-decoration: none;
+    }
+    
+    .flex-A{
+    
+        padding-top: 60px;
+        margin-left: 95px;
+    }
+    
+    .flex-B{
+    
+        display: flex;
+        padding-top: 40px;
+        
+        justify-content: space-around;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .flex-B a{
+        color: black;
+        text-decoration: none;
+    }
+    
+    .flex-C{
+    
+        display: flex;
+        justify-content: space-around;
+        padding-top: 10px;
+        
+    }
+    
+    .flex-C a{
+    
+        text-decoration: none;
+        color: black;
+        font-size: 17px;
+    }
+    
+    .Coy{
+        width: 20%;
+    }
+    .Udacity{
+        width: 20%;
+    }
+    .Program{
+    
+        width: 20%;
+    }
+    .Only{
+        width: 20%;
+    }
+    
+    .media{
+    
+        display: flex;
+        font-size: 30px;
+    }
+    
+    .copyright{
+    
+        display: flex;
+        justify-content: space-around;
+    }
+    input{
+    
+        padding: 15px 170px;
+        border: 1px solid blue;
+        border-radius: 5px;
+    }
+    .last{
+    
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .exclam{
+    
+        margin-left: 120px;
+    }
+    
+    .subscribe a{
+        border: 1px solid blue;
+        text-decoration: none;
+        padding: 15px 70px;
+        border-radius: 5px;
+        background-color: #171a53;
+        color: white;
+        
+        
+    
+    }
+    .subscribe{
+        margin-right: 200px;
+        margin-top: 13px;
+        background-color: #171a53;
+    }
+    .facebook a{
+    
+        color: #2015ff;
+        margin-right: 5px;
+    }
+    .twitter a{
+    
+        color: #2015ff;
+        margin-right: 5px;
+    }
+    .linkden a{
+        color: #2015ff;
+        margin-right: 5px;
+    }
+    .instagram a{
+    
+        color: #2015ff;
+        margin-right: 5px;
+    }
+    .Inc{
+    
+        margin-top: 30px;
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .Incc{
+    
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    
+    .legacy{
+    
+        display: flex;
+        margin-left: 5px;
+        margin-top: 40px;
+        font-weight: bold;
+        margin-bottom: 90px;
+    }
+    .site a{
+    
+       margin-left: 20px; 
+       color: black;
+    }
+    
+    .privacy a{
+        color: black;
+    }
+    
+    
+    /* @media screen and (max-width: 1120px){
+    
+        .nav ul li a{
+    
+            
+            padding: 0px 3px;
+            
+    
+           
+        }
+    
+        .btn-login a{
+    
+            margin-right: 100px;
+            padding: 5px 7px;
+        }
+        .search{
+    
+            margin-right: 70px;
+    
+    
+        }
+    
+        .btn-join a{
+    
+            margin-right: 70px;
+            padding: 5px 7px;
+    
+    
+        }
+    
+    
+    
+        
+    } */
+    
+    @media (min-width:400px) and (max-width:1135px) {
+    
+        .nav ul li{
+    
+            display: none;
+        }
+        .ref{
+    
+            display: none;
+        }
+    
+    
+    
+    
+    
+    
+        
+    }
+    
