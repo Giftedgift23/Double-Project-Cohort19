@@ -1,0 +1,71 @@
+ 
+ .container{
+    width: 80%;
+ }
+ .home{
+    margin: auto;
+    display: flex;
+   
+    /* background-color: blue; */
+    justify-content: space-between;
+    padding-top: 50px;
+
+} 
+
+
+form{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+input{
+    padding: 10px 20px;
+   
+}
+ .btn{
+
+color: white;
+padding: 10px 20px;
+margin-left: 90px;
+
+}
+
+.You{
+    padding-top: 50px;
+}
+
+.count{
+    display: flex;
+     justify-content: space-around; 
+} 
+.count p{
+    color: rgba(63, 124, 238, 0.973);
+}
+.count h6{
+    color: rgb(37, 38, 39);
+}
+.affordable{
+    display: flex;
+    
+}
+.top{
+    display: flex;
+}
+.Fast{
+    display: flex;
+}
+
+@media screen and (max-width:1064px){
+    .container{
+        width: 100%;
+    }
+
+    .home{
+        display: inline;
+    }
+
+    .count{
+        display: inline;
+    }
+}
