@@ -1,0 +1,222 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+
+}
+ /* container design starts here */
+.container{
+
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+    align-items: center;
+    padding-top: 30px;
+    
+}
+
+/* <!-- cart link design starts here --> */
+.link{
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+.link p{
+    color: wheat;
+}
+
+/* logo design here */
+
+.logo img{
+   width: 170px;
+   padding-right: 155px;
+ 
+}
+
+/* nav bar design starts here */
+
+.nav ul li{
+    display: inline-block;
+    padding-right: 30px;
+}
+
+
+.nav ul li a{
+    padding: 0px 10px;
+    color: black;
+}
+
+.nav1 ul li a{
+    padding: 30px;
+    color: black;
+}
+
+input{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+/* body design just below the cart image */
+
+.amana2 h1{
+padding-bottom: 40px;
+font-size: 30px;
+text-align: center;
+color: black;
+}
+
+.amana3 a{
+    background-color: brown;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.amana3{
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.subheads{
+       
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      background-color: white;
+      margin: 10px;
+}
+
+/* footer design starts here */
+
+.footerheads{
+    display: flex;
+    background-color: #2c3e50;
+    color: white;
+}
+
+.Dropox{
+    width: 20%;
+}
+
+.Product{
+    width: 20%;
+}
+.Support{
+    width: 20%;
+}
+
+.Sociolast{
+    width: 20%;
+}
+
+ul li a{
+    color: white;
+}
+
+.sociolast ul img{
+   width: 60%;
+}
+
+  .new{
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 80px;
+  }
+
+  .new h1{
+    margin-right: 650px;
+  }
+
+.div1{
+    margin-bottom: 150px;
+    font-size: xx-large;
+  
+ }
+
+.background img{
+    padding-left: 130px;
+ }
+
+ .footer{
+    text-align: center;
+    padding-top: 25px;
+ }
+
+ .chat a{
+    color: white;
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+
+ }
+
+
+.btn {
+    color: red;
+}
+
+
+/* first navbar design starts here */
+
+.ist-flex {
+
+    display: flex;
+    justify-content: space-around;
+    font-size: 14PX;
+    text-decoration: none;
+    background-color:lightgray;
+    padding: 20px;
+}
+.cost a{
+    text-decoration: none;
+    color: grey;
+}
+.cost1 a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 90px;
+}
+.cost2 a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 120px;
+}
+.cost3 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost4 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost5 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost5{
+
+    border: 1px solid grey;
+    padding: 7px 20px;
+    border-radius: 30px;
+}
+.nja{
+
+    margin-left: 10px;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
