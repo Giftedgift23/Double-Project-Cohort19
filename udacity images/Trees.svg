@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.5 57H53.5" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M15 45C19.4183 45 23 39.4036 23 32.5C23 25.5964 19.4183 20 15 20C10.5817 20 7 25.5964 7 32.5C7 39.4036 10.5817 45 15 45Z" fill="#00C5A1"/>
+<path d="M15 39V57" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M49 45C53.4183 45 57 39.4036 57 32.5C57 25.5964 53.4183 20 49 20C44.5817 20 41 25.5964 41 32.5C41 39.4036 44.5817 45 49 45Z" fill="#00C5A1"/>
+<path d="M49 39V57" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M32 45C36.4183 45 40 36.4934 40 26C40 15.5066 36.4183 7 32 7C27.5817 7 24 15.5066 24 26C24 36.4934 27.5817 45 32 45Z" fill="#BDEA09"/>
+<path d="M32 21.6992V56.9995" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M27.21 30L31.9001 34.6899" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M36.8 30L32.1101 34.6899" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M28.8301 24.9707L31.9299 28.0806" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M35.1799 24.9707L32.0701 28.0806" stroke="#0B0B0B" stroke-miterlimit="10" stroke-linecap="round"/>
+</svg>
