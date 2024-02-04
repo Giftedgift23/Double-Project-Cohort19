@@ -1,0 +1,92 @@
+
+
+
+
+
+
+.placeholder-btn{
+    border: 10px;
+    background-color: white;
+    width: 25%;
+    padding: 10px 0;
+    border: 2px solid;
+    border-color: gray;
+    color: grey;
+    padding-left: 15px;
+    margin-left: -15%;
+}
+
+.w{
+    /* color: white; */
+    text-decoration: none;
+}
+
+.containerfluid2{
+    display: flex;
+    gap: 40px;
+}
+
+.fast{
+    display: flex;
+    gap: 20px;
+}
+.placeholder-btnn{
+    border: 10px;
+    background-color: white;
+    width: 22%;
+    padding: 10px 20px;
+    border: 2px solid;
+    border-color: gray;
+    color: grey;
+    position: absolute;
+    right: 4.6%;
+}
+
+.fa-magnifying-glass{
+    color: grey;
+    font-size: 20px;
+}
+
+.icon1{
+    padding: 10px;
+    color: lightseagreen;
+    font-size: 45px;
+    
+}
+
+.icon2{
+    padding: 10px;
+    color: lightseagreen;
+    font-size: 45px;
+    
+}
+
+.icon3{
+    padding: 10px;
+    color: lightseagreen;
+    font-size: 45px;
+    
+}
+
+.navbar-nav{
+    justify-items: right;
+    margin-left: 30%;
+}
+
+.fa-motorcycle{
+    padding: 10px;
+    color: dark;
+    font-size: 45px;
+}
+
+
+.hundred{
+    display: flex;
+    gap: 20px;
+}
+
+.Affordable{
+    display: flex;
+    gap: 20px;
+}
+
