@@ -1,0 +1,183 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
+
+.navbar{
+    width: 100% !important;
+    position: fixed !important;
+    background-color: antiquewhite;
+    top: 0;
+    
+    
+}
+
+.navbar-brand{
+    margin-right: 1000px !important;
+}
+
+.img1{
+    width: 250px;
+
+}
+
+.si{
+    color: rgb(243, 21, 21) !important;
+}
+
+.acc-form{
+    background-color: rgb(26, 26, 71) !important;
+}
+
+
+/* Designs for Header here */
+
+header{
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 250px;
+    
+}
+
+
+.header-image img{
+    width: 150px;
+    }
+
+header h1{
+    font-size: 80px;
+}
+
+header span{
+    font-size: 30px;
+}
+
+
+.pro{
+    margin-bottom: 150px;
+}
+
+
+.col2{
+    background-color: rgb(190, 115, 16);  
+    width: 50%;
+    background-color: antiquewhite;
+}
+
+.col3{
+    background-color: rgb(104, 11, 167);
+    width: 25%;
+    background-color: antiquewhite;
+    
+}
+
+
+/* My content designs here */
+.content{
+    display: flex;
+    margin-left: 50px;
+    height: 70vh;
+   
+}
+
+.content-div{
+    background-color: rgb(248, 247, 247);
+    height: 80vh;
+}
+
+.content-item{
+    margin-right: 300px;
+}
+
+.content-item h1{
+    font-size: 80px;
+}
+
+.content2-item{
+    display: flex;
+}
+
+
+.content-icon a{
+    font-size: 45px;
+    padding: 20px 30px;
+    color: white; 
+    margin-left: 30px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.content-icon a{
+    color: white;
+}
+
+.content-img{
+    height: 65vh;
+}
+
+.content .content-img img{
+    width: 600px;
+    height: 70vh; 
+}
+
+.content-link{
+    padding: 15px 25px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    border-radius:5px ;
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.merch-store{
+    background-color: rgb(255, 251, 228);
+    height: 95vh;
+}
+
+.merch{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+
+.merch1{
+    display: flex;
+}
+
+.merch-text h3{
+    font-size: 50px;
+    
+}
+
+.merch-mid{
+    margin-left: 650px;
+}
+
+.card img{
+    height: 30vh;
+    
+}
+
+.icon img{
+    font-size: 80px !important;
+}
+
+.item{
+margin-right: 150px;
+}
+
+
+/* Footer's Create Merch Acc Link */
+.merch-item{
+    margin-left: 90px;
+}
+
+.footer2{
+    margin-top: 100px;
+    background-color: rgb(243, 207, 160);
+    width: 100%;
+    padding: 25px 0px;
+    height: 15vh;
+}
+
