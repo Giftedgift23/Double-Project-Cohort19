@@ -1,0 +1,319 @@
+*{
+    text-decoration: none;
+}
+
+.ist-flex {
+
+    display: flex;
+    justify-content: space-around;
+    font-size: 14PX;
+    text-decoration: none;
+    background-color:lightgray;
+    padding: 20px;
+}
+.cost a{
+    text-decoration: none;
+    color: grey;
+}
+.cost1 a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 90px;
+}
+.cost2 a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 120px;
+}
+.cost3 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost4 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost5 a{
+    text-decoration: none;
+    color: grey;
+}
+.cost5{
+
+    border: 1px solid grey;
+    padding: 7px 20px;
+    border-radius: 30px;
+}
+.nja{
+
+    margin-left: 10px;
+}
+
+/* second header */
+
+.nav ul li a{
+
+    text-decoration: none;
+    color: black;
+    
+}
+.nav ul li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+}
+.nav{
+
+    margin-left: 70px;
+}
+.In a{
+
+color: red;
+}
+.Im a{
+
+    color: black;
+}
+
+
+.login a{
+    text-decoration: none;
+   
+
+}
+
+.login{
+
+    margin-left: 50px;
+}
+.login ul li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+.second-flex{
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    /* position: fixed; */
+    width: 97%;
+    padding: 20px;
+}
+
+
+
+
+.third-flex{
+
+
+    padding-top: 70px;
+    justify-content: space-between;
+    display: flex;
+}
+.all-products ul li{
+
+    padding: 4px;
+    list-style-type: none;
+}
+
+.all{
+
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
+    padding-top: 30px;
+}
+
+.search{
+
+    padding-top: 30px;
+    
+}
+input{
+    padding: 10px 80px;
+    border-radius: 5px;
+}
+.icon{
+    font-size: 30px;
+    position: relative;
+    right: 60px;
+    top: 5px;
+}
+
+.head{
+
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.chures{
+
+    padding-top: 40px;
+    color: gray;
+}
+
+.filter{
+
+    margin-left: 32px;
+    color: grey;
+}
+.bag{
+    margin-left: 300px;
+    color: gray;
+}
+hr{
+    margin-left: 32px;
+    width: 19%;
+}
+
+/* The cards start here */
+
+.ban-flex{
+
+    display: flex;
+
+
+
+}
+.pillow{
+
+    width: 70%;
+    margin-left: 150px;
+    height: 30vh;
+}
+.banners a{
+
+    text-decoration: none;
+    padding-bottom: 50px;
+    font-size: 14px;
+    color:grey;
+    font-weight: bold;
+    
+}
+.Banner{
+    color: gray;
+    
+    
+}
+.card-body{
+    font-size: 13px;
+}
+
+.card img{
+    height: 40vh;
+
+
+}
+h4{
+    font-size: 16px;
+}
+.card{
+
+    height: 95vh;
+}
+
+.rows{
+
+    padding-top: 40px;
+}
+.Banner{
+
+    padding-top: 130px;
+}
+
+.envelope{
+
+    padding-top: 80px;
+}
+
+.bottom-flex{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.bootom{
+
+    position: absolute;
+    top: 7840%;
+    justify-content: space-around;
+    width: 95%;
+}
+.fast{
+
+    width: 25%;
+}
+
+.Top{
+
+    width: 25%;
+}
+.Affordable{
+
+    width: 25%;
+}
+.faster{
+    margin-left: 30px;
+}
+.you{
+
+    margin-left: 20px;
+}
+
+.social2{
+
+    display: flex;
+}
+
+.foot-flexx{
+
+    display: flex;
+    justify-content:space-around;
+    margin-top: 90px;
+    background-color: black;
+    width: 103%;
+    line-height: 50px;
+    
+
+}
+
+.foot-flexx a{
+
+    text-decoration: none;
+    color: white;
+}
+
+.face a{
+
+    font-size: 30px;
+    margin: 0px 12px;
+}
+.do{
+
+    color: white;
+}
+
+.verve img{
+
+    font-size: 20px;
+}
+
+.copyright{
+
+    background-color: gray;
+    width: 103%;
+    line-height: 80px;
+    text-align: center;
+
+}
+.track{
+
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
